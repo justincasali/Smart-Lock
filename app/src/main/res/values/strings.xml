@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Lock</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="locked">Locked</string>
+    <string name="setup">Setup Device</string>
+    <string name="toggle">Toggle</string>
+</resources>
